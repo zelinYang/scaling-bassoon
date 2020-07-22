@@ -1,0 +1,52 @@
+[
+    {
+        "area": "城中区",
+        "eventNum": 10,
+        "eventAn": "100%"
+    },
+    {
+        "area": "鱼峰区",
+        "eventNum": 15,
+        "eventAn": "94%"
+    },
+    {
+        "area": "柳北区",
+        "eventNum": 12,
+        "eventAn": "98%"
+    },
+    {
+        "area": "柳南区",
+        "eventNum": 16,
+        "eventAn": "99%"
+    },
+    {
+        "area": "柳江区",
+        "eventNum": 14,
+        "eventAn": "94%"
+    },
+    {
+        "area": "鹿寨县",
+        "eventNum": 20,
+        "eventAn": "92%"
+    },
+    {
+        "area": "柳城县",
+        "eventNum": 24,
+        "eventAn": "92%"
+    },
+    {
+        "area": "融水苗族自治县",
+        "eventNum": 21,
+        "eventAn": "92%"
+    },
+    {
+        "area": "融安县",
+        "eventNum": 20,
+        "eventAn": "94%"
+    },
+    {
+        "area": "三江侗族自治县",
+        "eventNum": 19,
+        "eventAn": "97%"
+    }
+]

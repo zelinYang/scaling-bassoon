@@ -1,0 +1,37 @@
+[
+    {
+        "round": "城中街道办事处",
+        "finish": "6",
+        "unfinish": "1"
+    },
+    {
+        "round": "公园街道办事处",
+        "finish": "7",
+        "unfinish": "4"
+    },
+    {
+        "round": "中南街道办事处",
+        "finish": "3",
+        "unfinish": "1"
+    },
+    {
+        "round": "水上街道办事处",
+        "finish": "12",
+        "unfinish": "2"
+    },
+    {
+        "round": "潭中街道办事处",
+        "finish": "5",
+        "unfinish": "1"
+    },
+    {
+        "round": "河东街道办事处",
+        "finish": "9",
+        "unfinish": "4"
+    },
+    {
+        "round": "龙城街道办事处",
+        "finish": "2",
+        "unfinish": "0"
+    }
+]

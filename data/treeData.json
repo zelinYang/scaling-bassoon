@@ -1,0 +1,189 @@
+[
+  {
+    "id": 0,
+    "label": "柳州市",
+    "children": [
+      {
+        "id": 1,
+        "label": "市级河长",
+        "children": [
+          {
+            "id": 11,
+            "duty": "县级河长",
+            "label": "管理员",
+            "phone": "0772-2356712",
+            "email": "admin@.163.com",
+            "river": "柳江河全流域",
+            "startR": "浔江三江段",
+            "endR": "洛青柳东新区段",
+            "name": "管理员",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559226705623&di=ccea0d5001ce4daa2011620e0d2c5c77&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb93c88ceb9b002d77139226ac2b60650a2717ef91e660-4LHUhy_fw658"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "label": "城中区",
+        "children": [
+          {
+            "id": 21,
+            "duty": "县级河长",
+            "label": "管理员",
+            "name": "管理员",
+            "phone": "0772-2356712",
+            "email": "admin@.163.com",
+            "river": "柳江河全流域",
+            "startR": "浔江三江段",
+            "endR": "洛青柳东新区段",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559226705623&di=ccea0d5001ce4daa2011620e0d2c5c77&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb93c88ceb9b002d77139226ac2b60650a2717ef91e660-4LHUhy_fw658"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "label": "柳北区",
+        "children": [
+          {
+            "duty": "县级河长",
+            "label": "管理员",
+            "phone": "0772-2356712",
+            "email": "admin@.163.com",
+            "river": "柳江河全流域",
+            "startR": "浔江三江段",
+            "endR": "洛青柳东新区段",
+            "name": "管理员",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559226705623&di=ccea0d5001ce4daa2011620e0d2c5c77&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb93c88ceb9b002d77139226ac2b60650a2717ef91e660-4LHUhy_fw658"
+          }
+        ]
+      },
+      {
+        "label": "柳南区",
+        "children": [
+          {
+            "duty": "县级河长",
+            "label": "管理员",
+            "phone": "0772-2356712",
+            "email": "admin@.163.com",
+            "river": "柳江河全流域",
+            "startR": "浔江三江段",
+            "endR": "洛青柳东新区段",
+            "name": "管理员",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559226705623&di=ccea0d5001ce4daa2011620e0d2c5c77&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb93c88ceb9b002d77139226ac2b60650a2717ef91e660-4LHUhy_fw658"
+          }
+        ]
+      },
+      {
+         "label": "柳城县",
+        "children": [
+          {
+            "duty": "县级河长",
+            "label": "管理员",
+            "phone": "0772-2356712",
+            "email": "admin@.163.com",
+            "river": "柳江河全流域",
+            "startR": "浔江三江段",
+            "endR": "洛青柳东新区段",
+            "name": "管理员",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559226705623&di=ccea0d5001ce4daa2011620e0d2c5c77&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb93c88ceb9b002d77139226ac2b60650a2717ef91e660-4LHUhy_fw658"
+          }
+        ]
+      },
+      {
+        "label": "柳江区",
+        "children": [
+          {
+            "duty": "县级河长",
+            "label": "管理员",
+            "phone": "0772-2356712",
+            "email": "admin@.163.com",
+            "river": "柳江河全流域",
+            "startR": "浔江三江段",
+            "endR": "洛青柳东新区段",
+            "name": "管理员",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559226705623&di=ccea0d5001ce4daa2011620e0d2c5c77&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb93c88ceb9b002d77139226ac2b60650a2717ef91e660-4LHUhy_fw658"
+          }
+        ]
+      },
+      {
+       "label": "融安县",
+        "children": [
+          {
+            "name": "管理员",
+            "duty": "县级河长",
+            "label": "管理员",
+            "phone": "0772-2356712",
+            "email": "admin@.163.com",
+            "river": "柳江河全流域",
+            "startR": "浔江三江段",
+            "endR": "洛青柳东新区段",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559226705623&di=ccea0d5001ce4daa2011620e0d2c5c77&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb93c88ceb9b002d77139226ac2b60650a2717ef91e660-4LHUhy_fw658"
+          }
+        ]
+      },
+      {
+         "label": "鱼峰区",
+        "children": [
+          {
+            "name": "管理员",
+            "duty": "县级河长",
+            "label": "管理员",
+            "phone": "0772-2356712",
+            "email": "admin@.163.com",
+            "river": "柳江河全流域",
+            "startR": "浔江三江段",
+            "endR": "洛青柳东新区段",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559226705623&di=ccea0d5001ce4daa2011620e0d2c5c77&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb93c88ceb9b002d77139226ac2b60650a2717ef91e660-4LHUhy_fw658"
+          }
+        ]
+      },
+      {
+        "label": "鹿寨县",
+        "children": [
+          {
+            "name": "管理员",
+            "duty": "县级河长",
+            "label": "管理员",
+            "phone": "0772-2356712",
+            "email": "admin@.163.com",
+            "river": "柳江河全流域",
+            "startR": "浔江三江段",
+            "endR": "洛青柳东新区段",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559226705623&di=ccea0d5001ce4daa2011620e0d2c5c77&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb93c88ceb9b002d77139226ac2b60650a2717ef91e660-4LHUhy_fw658"
+          }
+        ]
+      },
+      {
+        "label": "三江侗族自治县",
+        "children": [
+          {
+            "duty": "县级河长",
+            "label": "管理员",
+            "name": "管理员",
+            "phone": "0772-2356712",
+            "email": "admin@.163.com",
+            "river": "柳江河全流域",
+            "startR": "浔江三江段",
+            "endR": "洛青柳东新区段",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559226705623&di=ccea0d5001ce4daa2011620e0d2c5c77&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb93c88ceb9b002d77139226ac2b60650a2717ef91e660-4LHUhy_fw658"
+          }
+        ]
+      },
+      {
+        "label": "融水苗族自治县",
+        "children": [
+          {
+            "duty": "县级河长",
+            "label": "管理员",
+            "name": "管理员",
+            "phone": "0772-2356712",
+            "email": "admin@.163.com",
+            "river": "柳江河全流域",
+            "startR": "浔江三江段",
+            "endR": "洛青柳东新区段",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559226705623&di=ccea0d5001ce4daa2011620e0d2c5c77&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb93c88ceb9b002d77139226ac2b60650a2717ef91e660-4LHUhy_fw658"
+          }
+        ]
+      }
+    ]
+  }
+]
